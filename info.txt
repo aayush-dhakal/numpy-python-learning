@@ -1,0 +1,1 @@
+1. select the code cell, press "esc + m ",and it will be a markdown cell. moreover, from markdown cell to code cell, press " esc + y ". If you're using vim-bindings , the shortcut changes to Ctrl + 2 , also in command mode as in @Louise Davies answer.
